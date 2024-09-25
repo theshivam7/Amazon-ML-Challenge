@@ -1,0 +1,7 @@
+pandas
+torch
+torchvision
+Pillow
+requests
+tqdm
+scikit-learn
